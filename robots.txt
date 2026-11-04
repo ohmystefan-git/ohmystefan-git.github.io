@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ohmystefan-git.github.io/sitemap.xml
